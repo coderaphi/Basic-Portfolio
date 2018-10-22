@@ -1,0 +1,59 @@
+#logo {
+
+    background-color: #4aaaa5;
+    color: #ffffff;
+    float: left;
+    width: 22%;
+    text-align: center;
+    margin-left: 30px;
+    clear:both;
+
+
+}
+
+
+#about {
+    margin: -20px; 
+    width: 70px; 
+    float:right;   
+    background-color:grey;
+    margin-left: 300px;
+
+
+
+
+
+
+
+}
+
+
+#contact 
+    
+    width: 70px; 
+    float: right;
+    background-color:grey;
+
+}
+
+
+
+
+#portfolio 
+    
+    width: 70px; 
+    float: right;
+
+    background-color:grey;
+
+}
+
+
+#copyright{
+
+    position: sticky;
+}
+
+
+
+
